@@ -1,0 +1,17 @@
+{
+  "name": "@types/analytics-gtag",
+  "version": "0.0.1",
+  "description": "Google Analytics gtag definition",
+  "types": "@types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Google","Analytics","gtag"],
+  "author": "SoraKumo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develop-programs/types-analytics-gtag.git"
+  },
+  "homepage": "https://croud.jp"
+}
