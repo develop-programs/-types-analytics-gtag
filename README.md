@@ -1,8 +1,8 @@
-# @types/analytics-gtag
+# analytics-gtag
 
 ## update
 
-- 2019/06/24 0.0.1 Initial version
+- 2019/06/24 1.0.0 Initial version
 
 ## How to use
 

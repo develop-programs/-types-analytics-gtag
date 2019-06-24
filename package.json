@@ -1,6 +1,6 @@
 {
   "name": "analytics-gtag",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Google Analytics gtag definition",
   "private": false,
   "types": "@types/index.d.ts",
