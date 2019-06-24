@@ -6,12 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Google","Analytics","gtag"],
+  "keywords": [
+    "Google",
+    "Analytics",
+    "gtag"
+  ],
   "author": "SoraKumo",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/develop-programs/types-analytics-gtag.git"
   },
-  "homepage": "https://croud.jp"
+  "homepage": "https://croud.jp",
+  "bugs": {
+    "url": "https://github.com/develop-programs/types-analytics-gtag/issues"
+  },
+  "main": "index.js"
 }

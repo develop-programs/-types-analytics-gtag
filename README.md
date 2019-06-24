@@ -1,6 +1,4 @@
-# javascript-window-framework
-
-@types/analytics-gtag
+# @types/analytics-gtag
 
 ## 更新履歴
 
