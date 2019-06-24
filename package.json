@@ -1,7 +1,8 @@
 {
-  "name": "@types/analytics-gtag",
+  "name": "analytics-gtag",
   "version": "0.0.1",
   "description": "Google Analytics gtag definition",
+  "private": false,
   "types": "@types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
