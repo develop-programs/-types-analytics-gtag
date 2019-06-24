@@ -1,6 +1,6 @@
 # @types/analytics-gtag
 
-## 更新履歴
+## update
 
 - 2019/06/24 0.0.1 Initial version
 
